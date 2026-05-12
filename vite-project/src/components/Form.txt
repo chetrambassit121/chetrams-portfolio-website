@@ -1,0 +1,45 @@
+
+
+
+const Form = ({ label, classes, icon }) => {
+    return (
+        {/* Form */}
+        <motion.form
+          variants={variants.fadeIn}
+          action=""
+          className="grid gap-5"
+        >
+          {/* Input field */}
+          <div className="grid gap-2">
+            <label htmlFor="name">Name *</label>
+            <input
+              type="text"
+              placeholder="your name"
+              required
+              className="input"
+            />
+          </div>
+          {/* Input field */}
+          <div className="grid gap-2">
+            <label htmlFor="name">Email *</label>
+            <input
+              type="email"
+              placeholder="Email"
+              required
+              className="input"
+            />
+          </div>
+          {/* Text area */}
+          <div className="grid gap-2">
+            <label htmlFor="message">Message *</label>
+            <textarea
+              id="message"
+              placeholder="Message"
+              className="h-40 w-full border border-neutral-800 indent-4 py-2 resize-none"
+            />
+          </div>
+
+          <button className="primary-btn max-w-max">Send Message</button>
+        </motion.form>
+        );
+    };
