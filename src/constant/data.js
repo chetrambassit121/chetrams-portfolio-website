@@ -12,7 +12,7 @@ export const navItems = [
   },
   {
     id: 2,
-    label: "Tech Skills",
+    label: "About",
     href: "#about",
   },
   {
