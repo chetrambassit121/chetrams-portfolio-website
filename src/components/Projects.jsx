@@ -18,7 +18,7 @@ const Projects = () => {
       >
         {/* Title */}
         <motion.h2 variants={variants.fadeInUp} className="text-center">
-          Recent Projects
+          Chet's Awesome Projects
         </motion.h2>
 
         {/* Card wrapper */}

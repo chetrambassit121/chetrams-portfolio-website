@@ -113,8 +113,8 @@ export const ResumeItems = [
         label: "Software Engineer (QA)",
         role: "Global Logic",
         href: "https://www.linkedin.com/company/globallogic/posts/?feedView=all",
-        time: "April 2024 -> March 2026",
-        duration: "1 year, 11 months",
+        time: "April 2024 -> April 2026",
+        duration: "2 years, 1 month",
         experience: 
         `
         • Ensuring the highest quality final product for Google via Global Logic by reviewing their LLM cases containing Python API's curated by Global Logic engineers.
@@ -202,15 +202,15 @@ export const ProjectsItems = [
     title: "",
     src: "/images/portfolio-7.png",
     href: "https://coliseum-gym.herokuapp.com/",
-    text: "Modern Fitness, User Based, Social Media Application.\nMade with Django and Bootstrap",
+    text: "Modern Fitness, User Based, Social Media Application.\nMade with Django and Bootstrap.",
   },
-  // {
-  //   id: 2,
-  //   title: "Porfolio 2",
-  //   src: "/images/portfolio-2.png",
-  //   href: "https://coliseum-gym.herokuapp.com/",
-  //   text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur temporibus asperiores, quia adipisci repellendus",
-  // },
+  {
+    id: 2,
+    title: "",
+    src: "/images/dash.png",
+    href: "https://chets-data-dashboard-dd78f7093323.herokuapp.com/",
+    text: "Interactive sales analytics dashboard. Built with Django, Django REST Framework, React, and MUI X Charts.",
+  },
   // {
   //   id: 3,
   //   title: "Porfolio 3",
