@@ -99,7 +99,7 @@ const Hero = () => {
             className="mt-5 flex items-center gap-5 justify-center flex-wrap"
           >
             <a
-              href="https://docs.google.com/document/d/1S8jfhozpEuRx-uLRRFenWU67ZjaAUVKmIASeataDxo8/edit?tab=t.0"
+              href="https://docs.google.com/document/d/1gkHITgJmscuNXb4vgrsj0jl-QBzS8q4Zl8GrHBW9uPQ/edit?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
