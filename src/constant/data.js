@@ -113,7 +113,7 @@ export const ResumeItems = [
         label: "Software Engineer (QA)",
         role: "Global Logic",
         href: "https://www.linkedin.com/company/globallogic/posts/?feedView=all",
-        time: "April 2024 -> April 2026",
+        time: "June 2024 -> June 2026",
         duration: "2 years, 1 month",
         experience: 
         `
